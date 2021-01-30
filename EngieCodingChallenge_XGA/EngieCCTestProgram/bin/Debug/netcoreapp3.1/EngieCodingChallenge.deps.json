@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EngieCodingChallenge/1.0.0": {
+        "dependencies": {
+          "EngieCCComputer": "1.0.0"
+        },
+        "runtime": {
+          "EngieCodingChallenge.dll": {}
+        }
+      },
+      "EngieCCComputer/1.0.0": {
+        "runtime": {
+          "EngieCCComputer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EngieCodingChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EngieCCComputer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCCComputer\bin\Debug\netcoreapp3.1\EngieCCComputer.deps.json
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCCComputer\bin\Debug\netcoreapp3.1\EngieCCComputer.dll
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCCComputer\bin\Debug\netcoreapp3.1\EngieCCComputer.pdb
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCCComputer\obj\Debug\netcoreapp3.1\EngieCCComputer.AssemblyInfoInputs.cache
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCCComputer\obj\Debug\netcoreapp3.1\EngieCCComputer.AssemblyInfo.cs
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCCComputer\obj\Debug\netcoreapp3.1\EngieCCComputer.csproj.CoreCompileInputs.cache
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCCComputer\obj\Debug\netcoreapp3.1\EngieCCComputer.dll
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCCComputer\obj\Debug\netcoreapp3.1\EngieCCComputer.pdb
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCCComputer\obj\Debug\netcoreapp3.1\EngieCCComputer.csprojAssemblyReference.cache

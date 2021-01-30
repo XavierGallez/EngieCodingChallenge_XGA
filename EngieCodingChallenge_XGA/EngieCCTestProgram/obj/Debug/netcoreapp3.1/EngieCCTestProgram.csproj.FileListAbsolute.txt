@@ -1,0 +1,16 @@
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\bin\Debug\netcoreapp3.1\EngieCCTestProgram.exe
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\bin\Debug\netcoreapp3.1\EngieCCTestProgram.deps.json
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\bin\Debug\netcoreapp3.1\EngieCCTestProgram.runtimeconfig.json
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\bin\Debug\netcoreapp3.1\EngieCCTestProgram.runtimeconfig.dev.json
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\bin\Debug\netcoreapp3.1\EngieCCTestProgram.dll
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\bin\Debug\netcoreapp3.1\EngieCCTestProgram.pdb
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\bin\Debug\netcoreapp3.1\EngieCCComputer.dll
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\bin\Debug\netcoreapp3.1\EngieCCComputer.pdb
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\obj\Debug\netcoreapp3.1\EngieCCTestProgram.csprojAssemblyReference.cache
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\obj\Debug\netcoreapp3.1\EngieCCTestProgram.AssemblyInfoInputs.cache
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\obj\Debug\netcoreapp3.1\EngieCCTestProgram.AssemblyInfo.cs
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\obj\Debug\netcoreapp3.1\EngieCCTestProgram.csproj.CoreCompileInputs.cache
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\obj\Debug\netcoreapp3.1\EngieCCTestProgram.csproj.CopyComplete
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\obj\Debug\netcoreapp3.1\EngieCCTestProgram.dll
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\obj\Debug\netcoreapp3.1\EngieCCTestProgram.pdb
+C:\Users\xga\source\repos\EngieCodingChallenge\EngieCodingChallenge\obj\Debug\netcoreapp3.1\EngieCCTestProgram.genruntimeconfig.cache
