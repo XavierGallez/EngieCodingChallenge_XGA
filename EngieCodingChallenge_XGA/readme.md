@@ -8,7 +8,7 @@ To start and test the API, proceed as follows:
 
 1. Set the *EngieCCWebApi* project as startup project and run its *EngieCCWebApi* profile. This will launch your web browser and open the swagger for the api.
 
-1. Select the "/planproduction" post request. Click on "Try it out", copy the content your json payload file in the *Request body* field.
+1. Select the "/planproduction" post request. Click on "Try it out", copy the content of your json payload file in the *Request body* field.
 
 1. Click on "Execute". The resulting json is available in the *Response body* field.
 
@@ -24,11 +24,11 @@ If, for any reason the web server does not run (this is really my first time cre
 
 1. The json result file should be created in directory *results*. A summary of the production plan as well as its cost is also displayed in the console for each payload file found in directory *example_payloads*.
 
-# Main algortihm
+# Main algorithm
 
 The coding challenge documentation refers to the *merit order* approach that yields to a linearized Lagrangian-based optimization system of equations. The later could be solved using a standard LU-decomposition method, among others.
 
-Howerver I wanted to try something different, and solve the problem based on a more pragmatic approch based on common sense and intuition.
+However I wanted to try something different, and solve the problem based on a more pragmatic approach based on common sense and intuition.
 
 After all, our goal is to have a maximum of low-cost plans and a minimum of higher-cost plans running. So, I created an algorithm that does just that. To match a given load, the algorithm works as follows:
 
@@ -42,11 +42,11 @@ The three sample payloads tests seem to pass... although we should compare the r
 
 ## CO2 emissions
 
-CO2 emissions are taken into account in the algorithm. However some assuptions were made as the coding challenge documentation raised some questions:
+CO2 emissions are taken into account in the algorithm. However some assumptions were made as the coding challenge documentation raised some questions:
 
 * I did not find any information on the CO2 emissions of the kerosine plants.
 
-* It is not clear whether CO2 emissions are per thermal MWh (energy extracted from the fuel) or per electrical MWh (net electrical output : *MWh_elec = efficiency \* MHh_ther*)
+* It is not clear whether CO2 emissions are per thermal MWh (energy extracted from the fuel) or per electrical MWh (net electrical output: *MWh_elec = efficiency \* MHh_ther*)
 
 Therefore, the following assumptions were made:
 
@@ -63,6 +63,3 @@ I decided to not implement these as I do not have any experience with these tech
 # Legal rights
 
 The code provided herein is the property of ArChiOm SPRL and subject to copyright and author rights. It is provided to Engie/GEM for the sole purpose of evaluation of a potential collaboration between ArChiOm SPRL and Engie. It cannot be used by Engie, any of its subsidiaries, or any other company, neither for internal use of any kind and at any time, neither for commercial purposes of any kind and at any time.
-
-
-
